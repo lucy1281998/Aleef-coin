@@ -1,0 +1,76 @@
+#comingup
+{
+	    background-image: url("../asset/coin.png");
+	    background-attachment: fixed;
+	    background-size:cover;
+	    background-repeat: no-repeat;
+	    height:auto;
+	    background-color: rgba(5, 0, 0, 0.5);
+}
+#comingup1
+{
+	padding: 20px 20px 20px 20px;
+}
+.icon h1 {
+    font-weight:bold;
+    margin: 0px;
+    color: white;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  color: white;
+  text-transform: uppercase;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+
+}
+@media screen and (max-width: 600px) {
+  div.timer {
+      display: inline-block;
+
+
+    
+  }
+}
+#days
+{
+	color: red;
+    font-size: 50px;
+    font-weight: 700;
+}
+#hours
+{
+		color: rgb(252, 108, 2);
+		font-size: 50px;
+    font-weight: 700;
+}
+#minutes
+{
+font-size: 50px;
+    font-weight: 700;
+        color: rgb(205, 220, 57);
+
+}
+#seconds
+{
+	    color: rgb(0, 150, 136);
+	    font-size: 50px;
+    font-weight: 700;
+
+}
+#start{
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}

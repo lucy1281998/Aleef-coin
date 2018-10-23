@@ -1,0 +1,31 @@
+#referal1
+{
+
+    padding: 40px 40px 40px 40px;
+}
+
+
+#referal
+{
+    background-image: url("../asset/referal.png");
+    height:500px;
+    padding: 20px 20px 20px;
+}
+.table
+{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    max-width:50%;
+    font-size: 11px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-width: 600px){
+    table{
+        font-size: 10px;
+    
+        background-color: blueviolet;    
+    }
+  }
+  

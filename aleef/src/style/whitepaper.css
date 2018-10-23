@@ -1,0 +1,49 @@
+#whitepaper
+{
+    background-color:  #009270;
+
+}
+#whitepaper h2{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 40px;
+    padding-top: 20px;
+        text-shadow: 2px 2px gray;
+
+
+}
+.white-contain p
+{
+    text-align: justify;
+    color: aliceblue;
+    font-size: 13px;
+    padding: 10px 0px 0px 0px;
+}
+#document1
+{
+    color: white;
+        text-shadow: 2px 2px gray;
+
+}
+#document
+{
+    background-image: url("");
+    color: white;
+        text-shadow: 2px 2px gray;
+
+}
+.card
+{
+    background-color:#009270;
+}
+.card button
+{
+    color:#009270;
+    font-size:20px;
+    font-weight: bold;
+}
+#download
+{
+    margin-top:0px;
+    margin-bottom: 20px;
+}

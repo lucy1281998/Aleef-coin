@@ -1,0 +1,16 @@
+#signup
+{
+	margin-top: 70px;
+	background-image: url('../asset/login.jpg');
+	height: 587px;
+	background-position: center;
+	background-size: cover;
+}
+
+.login{
+	 background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); 
+
+}

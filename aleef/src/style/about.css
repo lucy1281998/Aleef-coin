@@ -1,0 +1,31 @@
+#about1
+{
+	background-color:#f2f2f2;
+}
+#about1 h1
+{
+	font-weight:bold;
+
+}
+#about1 h3
+{
+	font-family: 'Signika', sans-serif;
+	font-size: 20px;
+
+}
+#about3
+{
+text-align: justify;
+font-size:15px;
+	font-family: 'Signika', sans-serif;
+
+}
+#about2
+{
+	padding-bottom: 50px;		
+}
+#businessesgif
+{
+	height:auto;
+	border-radius: 6px;
+}
